@@ -1,0 +1,284 @@
+{
+  "roads": [
+    {
+      "fingerprint": 214748364877,
+      "width": 5,
+      "roadType": 0,
+      "minX": 0,
+      "minZ": -1,
+      "maxX": 25,
+      "maxZ": 36,
+      "file": "214748364877.nbt"
+    },
+    {
+      "fingerprint": 3899830306369,
+      "width": 5,
+      "roadType": 1,
+      "minX": -444,
+      "minZ": 539,
+      "maxX": -283,
+      "maxZ": 626,
+      "file": "3899830306369.nbt"
+    },
+    {
+      "fingerprint": 8671538972312,
+      "width": 5,
+      "roadType": 1,
+      "minX": 610,
+      "minZ": 563,
+      "maxX": 689,
+      "maxZ": 763,
+      "file": "8671538972312.nbt"
+    },
+    {
+      "fingerprint": 10071698309393,
+      "width": 5,
+      "roadType": 1,
+      "minX": 1357,
+      "minZ": 233,
+      "maxX": 1587,
+      "maxZ": 270,
+      "file": "10071698309393.nbt"
+    },
+    {
+      "fingerprint": 5252745003708,
+      "width": 5,
+      "roadType": 0,
+      "minX": 705,
+      "minZ": 76,
+      "maxX": 790,
+      "maxZ": 545,
+      "file": "5252745003708.nbt"
+    },
+    {
+      "fingerprint": -1245540515017,
+      "width": 5,
+      "roadType": 1,
+      "minX": -260,
+      "minZ": 154,
+      "maxX": 16,
+      "maxZ": 518,
+      "file": "18446742828169036599.nbt"
+    },
+    {
+      "fingerprint": 4389456578811,
+      "width": 5,
+      "roadType": 0,
+      "minX": -1236,
+      "minZ": 1306,
+      "maxX": -892,
+      "maxZ": 1778,
+      "file": "4389456578811.nbt"
+    },
+    {
+      "fingerprint": 16475494551341,
+      "width": 5,
+      "roadType": 1,
+      "minX": -1828,
+      "minZ": 1185,
+      "maxX": -1263,
+      "maxZ": 1357,
+      "file": "16475494551341.nbt"
+    },
+    {
+      "fingerprint": 639950127204,
+      "width": 5,
+      "roadType": 1,
+      "minX": -1237,
+      "minZ": 690,
+      "maxX": -546,
+      "maxZ": 1285,
+      "file": "639950127204.nbt"
+    },
+    {
+      "fingerprint": 14491219656946,
+      "width": 5,
+      "roadType": 1,
+      "minX": -1916,
+      "minZ": 234,
+      "maxX": -1324,
+      "maxZ": 381,
+      "file": "14491219656946.nbt"
+    },
+    {
+      "fingerprint": 3350074493494,
+      "width": 5,
+      "roadType": 0,
+      "minX": -1235,
+      "minZ": -1988,
+      "maxX": -849,
+      "maxZ": -1450,
+      "file": "3350074493494.nbt"
+    },
+    {
+      "fingerprint": 10161892625303,
+      "width": 5,
+      "roadType": 0,
+      "minX": -1976,
+      "minZ": 410,
+      "maxX": -1776,
+      "maxZ": 1284,
+      "file": "10161892625303.nbt"
+    },
+    {
+      "fingerprint": 7997229107094,
+      "width": 5,
+      "roadType": 0,
+      "minX": 605,
+      "minZ": -773,
+      "maxX": 653,
+      "maxZ": -588,
+      "file": "7997229107094.nbt"
+    },
+    {
+      "fingerprint": -4050154158887,
+      "width": 5,
+      "roadType": 1,
+      "minX": -830,
+      "minZ": -1006,
+      "maxX": 72,
+      "maxZ": -895,
+      "file": "18446740023555392729.nbt"
+    },
+    {
+      "fingerprint": 1464583849449,
+      "width": 5,
+      "roadType": 0,
+      "minX": -1281,
+      "minZ": 214,
+      "maxX": -555,
+      "maxZ": 669,
+      "file": "1464583849449.nbt"
+    },
+    {
+      "fingerprint": 6446745911395,
+      "width": 5,
+      "roadType": 0,
+      "minX": 85,
+      "minZ": 18,
+      "maxX": 708,
+      "maxZ": 66,
+      "file": "6446745911395.nbt"
+    },
+    {
+      "fingerprint": 4286377359769,
+      "width": 5,
+      "roadType": 1,
+      "minX": -1286,
+      "minZ": -884,
+      "maxX": -882,
+      "maxZ": 132,
+      "file": "4286377359769.nbt"
+    },
+    {
+      "fingerprint": 8035883811209,
+      "width": 5,
+      "roadType": 0,
+      "minX": 688,
+      "minZ": -476,
+      "maxX": 767,
+      "maxZ": -44,
+      "file": "8035883811209.nbt"
+    },
+    {
+      "fingerprint": 6081673692559,
+      "width": 5,
+      "roadType": 1,
+      "minX": 137,
+      "minZ": -1029,
+      "maxX": 649,
+      "maxZ": -674,
+      "file": "6081673692559.nbt"
+    },
+    {
+      "fingerprint": 14542759263824,
+      "width": 5,
+      "roadType": 0,
+      "minX": 1202,
+      "minZ": -199,
+      "maxX": 1295,
+      "maxZ": 182,
+      "file": "14542759263824.nbt"
+    },
+    {
+      "fingerprint": 11334418694651,
+      "width": 5,
+      "roadType": 0,
+      "minX": 806,
+      "minZ": -254,
+      "maxX": 1204,
+      "maxZ": -32,
+      "file": "11334418694651.nbt"
+    },
+    {
+      "fingerprint": 5454608468273,
+      "width": 5,
+      "roadType": 1,
+      "minX": 672,
+      "minZ": 860,
+      "maxX": 799,
+      "maxZ": 1332,
+      "file": "5454608468273.nbt"
+    },
+    {
+      "fingerprint": 2894807958188,
+      "width": 5,
+      "roadType": 1,
+      "minX": -1235,
+      "minZ": -1461,
+      "maxX": -797,
+      "maxZ": -911,
+      "file": "2894807958188.nbt"
+    },
+    {
+      "fingerprint": 29652454211817,
+      "width": 5,
+      "roadType": 1,
+      "minX": 2290,
+      "minZ": 12,
+      "maxX": 2310,
+      "maxZ": 244,
+      "file": "29652454211817.nbt"
+    },
+    {
+      "fingerprint": 25791278613934,
+      "width": 5,
+      "roadType": 0,
+      "minX": 1611,
+      "minZ": 85,
+      "maxX": 2358,
+      "maxZ": 598,
+      "file": "25791278613934.nbt"
+    },
+    {
+      "fingerprint": 30227979829806,
+      "width": 5,
+      "roadType": 0,
+      "minX": 2329,
+      "minZ": -276,
+      "maxX": 2364,
+      "maxZ": -13,
+      "file": "30227979829806.nbt"
+    },
+    {
+      "fingerprint": 28192165332681,
+      "width": 5,
+      "roadType": 0,
+      "minX": 2202,
+      "minZ": 589,
+      "maxX": 2207,
+      "maxZ": 598,
+      "file": "28192165332681.nbt"
+    },
+    {
+      "fingerprint": 29244432318610,
+      "width": 5,
+      "roadType": 1,
+      "minX": 2207,
+      "minZ": 365,
+      "maxX": 2358,
+      "maxZ": 598,
+      "file": "29244432318610.nbt"
+    }
+  ]
+}
