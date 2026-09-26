@@ -1,0 +1,779 @@
+{
+  "structureLocations": {
+    "structureLocations": [
+      {
+        "field_11175": 0,
+        "field_11174": 0,
+        "field_11173": 0
+      },
+      {
+        "field_11175": 32,
+        "field_11174": 0,
+        "field_11173": 96
+      },
+      {
+        "field_11175": -272,
+        "field_11174": 0,
+        "field_11173": 528
+      },
+      {
+        "field_11175": -496,
+        "field_11174": 0,
+        "field_11173": 656
+      },
+      {
+        "field_11175": 704,
+        "field_11174": 0,
+        "field_11173": 560
+      },
+      {
+        "field_11175": 672,
+        "field_11174": 0,
+        "field_11173": 816
+      },
+      {
+        "field_11175": 1600,
+        "field_11174": 0,
+        "field_11173": 256
+      },
+      {
+        "field_11175": 1296,
+        "field_11174": 0,
+        "field_11173": 240
+      },
+      {
+        "field_11175": 768,
+        "field_11174": 0,
+        "field_11173": 16
+      },
+      {
+        "field_11175": -1248,
+        "field_11174": 0,
+        "field_11173": 1296
+      },
+      {
+        "field_11175": -912,
+        "field_11174": 0,
+        "field_11173": 1792
+      },
+      {
+        "field_11175": -1888,
+        "field_11174": 0,
+        "field_11173": 1344
+      },
+      {
+        "field_11175": -1952,
+        "field_11174": 0,
+        "field_11173": 352
+      },
+      {
+        "field_11175": -1328,
+        "field_11174": 0,
+        "field_11173": 176
+      },
+      {
+        "field_11175": -1248,
+        "field_11174": 0,
+        "field_11173": -1520
+      },
+      {
+        "field_11175": -1024,
+        "field_11174": 0,
+        "field_11173": -2048
+      },
+      {
+        "field_11175": 592,
+        "field_11174": 0,
+        "field_11173": -832
+      },
+      {
+        "field_11175": 656,
+        "field_11174": 0,
+        "field_11173": -528
+      },
+      {
+        "field_11175": -880,
+        "field_11174": 0,
+        "field_11173": -944
+      },
+      {
+        "field_11175": 96,
+        "field_11174": 0,
+        "field_11173": -992
+      },
+      {
+        "field_11175": 1264,
+        "field_11174": 0,
+        "field_11173": -240
+      },
+      {
+        "field_11175": 800,
+        "field_11174": 0,
+        "field_11173": 1392
+      },
+      {
+        "field_11175": 2202,
+        "field_11174": 0,
+        "field_11173": 602
+      },
+      {
+        "field_11175": 2192,
+        "field_11174": 0,
+        "field_11173": 592
+      },
+      {
+        "field_11175": 2304,
+        "field_11174": 0,
+        "field_11173": 304
+      },
+      {
+        "field_11175": 2320,
+        "field_11174": 0,
+        "field_11173": 0
+      },
+      {
+        "field_11175": 2352,
+        "field_11174": 0,
+        "field_11173": -336
+      }
+    ],
+    "structureInfos": [
+      {
+        "pos": {
+          "field_11175": 0,
+          "field_11174": 0,
+          "field_11173": 0
+        },
+        "structureId": "roadweaver:spawn_cabin"
+      },
+      {
+        "pos": {
+          "field_11175": 32,
+          "field_11174": 0,
+          "field_11173": 96
+        },
+        "structureId": "minecraft:village_plains"
+      },
+      {
+        "pos": {
+          "field_11175": -272,
+          "field_11174": 0,
+          "field_11173": 528
+        },
+        "structureId": "minecraft:pillager_outpost"
+      },
+      {
+        "pos": {
+          "field_11175": -496,
+          "field_11174": 0,
+          "field_11173": 656
+        },
+        "structureId": "minecraft:village_snowy"
+      },
+      {
+        "pos": {
+          "field_11175": 704,
+          "field_11174": 0,
+          "field_11173": 560
+        },
+        "structureId": "minecraft:pillager_outpost"
+      },
+      {
+        "pos": {
+          "field_11175": 672,
+          "field_11174": 0,
+          "field_11173": 816
+        },
+        "structureId": "minecraft:village_plains"
+      },
+      {
+        "pos": {
+          "field_11175": 1600,
+          "field_11174": 0,
+          "field_11173": 256
+        },
+        "structureId": "minecraft:pillager_outpost"
+      },
+      {
+        "pos": {
+          "field_11175": 1296,
+          "field_11174": 0,
+          "field_11173": 240
+        },
+        "structureId": "minecraft:village_savanna"
+      },
+      {
+        "pos": {
+          "field_11175": 768,
+          "field_11174": 0,
+          "field_11173": 16
+        },
+        "structureId": "minecraft:village_plains"
+      },
+      {
+        "pos": {
+          "field_11175": -1248,
+          "field_11174": 0,
+          "field_11173": 1296
+        },
+        "structureId": "minecraft:pillager_outpost"
+      },
+      {
+        "pos": {
+          "field_11175": -912,
+          "field_11174": 0,
+          "field_11173": 1792
+        },
+        "structureId": "minecraft:pillager_outpost"
+      },
+      {
+        "pos": {
+          "field_11175": -1888,
+          "field_11174": 0,
+          "field_11173": 1344
+        },
+        "structureId": "minecraft:village_plains"
+      },
+      {
+        "pos": {
+          "field_11175": -1952,
+          "field_11174": 0,
+          "field_11173": 352
+        },
+        "structureId": "minecraft:village_plains"
+      },
+      {
+        "pos": {
+          "field_11175": -1328,
+          "field_11174": 0,
+          "field_11173": 176
+        },
+        "structureId": "minecraft:village_taiga"
+      },
+      {
+        "pos": {
+          "field_11175": -1248,
+          "field_11174": 0,
+          "field_11173": -1520
+        },
+        "structureId": "minecraft:village_plains"
+      },
+      {
+        "pos": {
+          "field_11175": -1024,
+          "field_11174": 0,
+          "field_11173": -2048
+        },
+        "structureId": "minecraft:village_plains"
+      },
+      {
+        "pos": {
+          "field_11175": 592,
+          "field_11174": 0,
+          "field_11173": -832
+        },
+        "structureId": "minecraft:village_savanna"
+      },
+      {
+        "pos": {
+          "field_11175": 656,
+          "field_11174": 0,
+          "field_11173": -528
+        },
+        "structureId": "minecraft:village_savanna"
+      },
+      {
+        "pos": {
+          "field_11175": -880,
+          "field_11174": 0,
+          "field_11173": -944
+        },
+        "structureId": "minecraft:village_plains"
+      },
+      {
+        "pos": {
+          "field_11175": 96,
+          "field_11174": 0,
+          "field_11173": -992
+        },
+        "structureId": "minecraft:village_plains"
+      },
+      {
+        "pos": {
+          "field_11175": 1264,
+          "field_11174": 0,
+          "field_11173": -240
+        },
+        "structureId": "minecraft:village_plains"
+      },
+      {
+        "pos": {
+          "field_11175": 800,
+          "field_11174": 0,
+          "field_11173": 1392
+        },
+        "structureId": "minecraft:village_plains"
+      },
+      {
+        "pos": {
+          "field_11175": 2202,
+          "field_11174": 0,
+          "field_11173": 602
+        },
+        "structureId": "epic:epic_temple_ruin"
+      },
+      {
+        "pos": {
+          "field_11175": 2192,
+          "field_11174": 0,
+          "field_11173": 592
+        },
+        "structureId": "minecraft:jungle_pyramid"
+      },
+      {
+        "pos": {
+          "field_11175": 2304,
+          "field_11174": 0,
+          "field_11173": 304
+        },
+        "structureId": "minecraft:village_desert"
+      },
+      {
+        "pos": {
+          "field_11175": 2320,
+          "field_11174": 0,
+          "field_11173": 0
+        },
+        "structureId": "minecraft:desert_pyramid"
+      },
+      {
+        "pos": {
+          "field_11175": 2352,
+          "field_11174": 0,
+          "field_11173": -336
+        },
+        "structureId": "minecraft:village_desert"
+      }
+    ]
+  },
+  "connections": [
+    {
+      "from": {
+        "field_11175": 0,
+        "field_11174": 0,
+        "field_11173": 0
+      },
+      "to": {
+        "field_11175": 32,
+        "field_11174": 0,
+        "field_11173": 96
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": -1248,
+        "field_11174": 0,
+        "field_11173": 1296
+      },
+      "to": {
+        "field_11175": -912,
+        "field_11174": 0,
+        "field_11173": 1792
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": -1248,
+        "field_11174": 0,
+        "field_11173": 1296
+      },
+      "to": {
+        "field_11175": -1888,
+        "field_11174": 0,
+        "field_11173": 1344
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": -1248,
+        "field_11174": 0,
+        "field_11173": 1296
+      },
+      "to": {
+        "field_11175": -496,
+        "field_11174": 0,
+        "field_11173": 656
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": -272,
+        "field_11174": 0,
+        "field_11173": 528
+      },
+      "to": {
+        "field_11175": -496,
+        "field_11174": 0,
+        "field_11173": 656
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": -272,
+        "field_11174": 0,
+        "field_11173": 528
+      },
+      "to": {
+        "field_11175": 32,
+        "field_11174": 0,
+        "field_11173": 96
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": 704,
+        "field_11174": 0,
+        "field_11173": 560
+      },
+      "to": {
+        "field_11175": 768,
+        "field_11174": 0,
+        "field_11173": 16
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": 704,
+        "field_11174": 0,
+        "field_11173": 560
+      },
+      "to": {
+        "field_11175": 672,
+        "field_11174": 0,
+        "field_11173": 816
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": 1600,
+        "field_11174": 0,
+        "field_11173": 256
+      },
+      "to": {
+        "field_11175": 1296,
+        "field_11174": 0,
+        "field_11173": 240
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": -1952,
+        "field_11174": 0,
+        "field_11173": 352
+      },
+      "to": {
+        "field_11175": -1888,
+        "field_11174": 0,
+        "field_11173": 1344
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": -1952,
+        "field_11174": 0,
+        "field_11173": 352
+      },
+      "to": {
+        "field_11175": -1328,
+        "field_11174": 0,
+        "field_11173": 176
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": -1248,
+        "field_11174": 0,
+        "field_11173": -1520
+      },
+      "to": {
+        "field_11175": -1024,
+        "field_11174": 0,
+        "field_11173": -2048
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": -1248,
+        "field_11174": 0,
+        "field_11173": -1520
+      },
+      "to": {
+        "field_11175": -880,
+        "field_11174": 0,
+        "field_11173": -944
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": -1328,
+        "field_11174": 0,
+        "field_11173": 176
+      },
+      "to": {
+        "field_11175": -880,
+        "field_11174": 0,
+        "field_11173": -944
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": -1328,
+        "field_11174": 0,
+        "field_11173": 176
+      },
+      "to": {
+        "field_11175": -496,
+        "field_11174": 0,
+        "field_11173": 656
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": -880,
+        "field_11174": 0,
+        "field_11173": -944
+      },
+      "to": {
+        "field_11175": 96,
+        "field_11174": 0,
+        "field_11173": -992
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": 96,
+        "field_11174": 0,
+        "field_11173": -992
+      },
+      "to": {
+        "field_11175": 592,
+        "field_11174": 0,
+        "field_11173": -832
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": 32,
+        "field_11174": 0,
+        "field_11173": 96
+      },
+      "to": {
+        "field_11175": 768,
+        "field_11174": 0,
+        "field_11173": 16
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": 592,
+        "field_11174": 0,
+        "field_11173": -832
+      },
+      "to": {
+        "field_11175": 656,
+        "field_11174": 0,
+        "field_11173": -528
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": 656,
+        "field_11174": 0,
+        "field_11173": -528
+      },
+      "to": {
+        "field_11175": 768,
+        "field_11174": 0,
+        "field_11173": 16
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": 768,
+        "field_11174": 0,
+        "field_11173": 16
+      },
+      "to": {
+        "field_11175": 1264,
+        "field_11174": 0,
+        "field_11173": -240
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": 672,
+        "field_11174": 0,
+        "field_11173": 816
+      },
+      "to": {
+        "field_11175": 800,
+        "field_11174": 0,
+        "field_11173": 1392
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": 1264,
+        "field_11174": 0,
+        "field_11173": -240
+      },
+      "to": {
+        "field_11175": 1296,
+        "field_11174": 0,
+        "field_11173": 240
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": 1600,
+        "field_11174": 0,
+        "field_11173": 256
+      },
+      "to": {
+        "field_11175": 2192,
+        "field_11174": 0,
+        "field_11173": 592
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": 2320,
+        "field_11174": 0,
+        "field_11173": 0
+      },
+      "to": {
+        "field_11175": 2352,
+        "field_11174": 0,
+        "field_11173": -336
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": 2320,
+        "field_11174": 0,
+        "field_11173": 0
+      },
+      "to": {
+        "field_11175": 2304,
+        "field_11174": 0,
+        "field_11173": 304
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": 2202,
+        "field_11174": 0,
+        "field_11173": 602
+      },
+      "to": {
+        "field_11175": 2192,
+        "field_11174": 0,
+        "field_11173": 592
+      },
+      "status": "COMPLETED"
+    },
+    {
+      "from": {
+        "field_11175": 2192,
+        "field_11174": 0,
+        "field_11173": 592
+      },
+      "to": {
+        "field_11175": 2304,
+        "field_11174": 0,
+        "field_11173": 304
+      },
+      "status": "COMPLETED"
+    }
+  ],
+  "plannedTileKeys": [
+    4294967295,
+    0,
+    -4294967296,
+    -1
+  ],
+  "plannedTileCenters": {
+    "4294967295": 4294967295,
+    "0": 0,
+    "-4294967296": -4294967296,
+    "-1": -1
+  },
+  "structureSources": {
+    "0": 1,
+    "-5360119184112": 1,
+    "-3917010172160": 1,
+    "-1168231103984": 1,
+    "3023656976944": 1,
+    "6871947673856": 1,
+    "-8383776161440": 1,
+    "-8108898253504": 1,
+    "-5355824219632": 1,
+    "-5703716568912": 1,
+    "-4393751545856": 1,
+    "-3775276254128": 1,
+    "-2130303778160": 1,
+    "416611826720": 1,
+    "137438953568": 1,
+    "2546915605696": 1,
+    "2821793512944": 1,
+    "3298534883344": 1,
+    "2886218023728": 1,
+    "3435973838192": 1,
+    "5433133629200": 1,
+    "5566277615856": 1,
+    "9964324126720": 1,
+    "9457517986394": 1,
+    "9414568313424": 1,
+    "10106058047152": 1,
+    "9895604650288": 1
+  },
+  "meta": {
+    "policy_hash": "aba519e4290722da77141c0ef34b5b22aec4cdb1ce9ba0c3310777cb2b44c1fe"
+  },
+  "scanTiles": {
+    "2548767196925054197": 1786944075,
+    "-5741521904877009427": 1786944119,
+    "449793391342717789": 1786945032,
+    "3862180507587248977": 1786945403,
+    "5456368598243072085": 1786968522,
+    "9211482385411538321": 1786969181,
+    "-7991930488764865071": 1786972668,
+    "-2757680937761970679": 1788694332
+  }
+}
